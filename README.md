@@ -1,19 +1,23 @@
 para poder correr el programa tienen que tener instalado:
 
--Node.js 18.x or higher (https://nodejs.org/es/download)
+-Node.js 18.x  (https://nodejs.org/es/download)
+
 -npm 
 
 una vez que este instalado usando el terminal de VScode siguen estos pasos:
 
-1. Clonar el repositorio
-  git clone https://github.com/fabriviccini/GeoLLM.git
+1. Clonar el repositorio:
+   
+git clone https://github.com/fabriviccini/GeoLLM.git
 
-  cd geoLLM
+cd geoLLM
 
-3. Instalar dependencias:
-  npm install
+2. Instalar dependencias:
+
+npm install
 
 3.iniciar el servidor de desarrollo:
+  
   npm run dev
 
 4. En su navegador pegan
