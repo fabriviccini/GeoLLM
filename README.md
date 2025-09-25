@@ -16,7 +16,7 @@ cd geoLLM
 
 npm install
 
-3.iniciar el servidor de desarrollo:
+3. Iniciar el servidor de desarrollo:
   
   npm run dev
 
