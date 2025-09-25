@@ -40,9 +40,9 @@ export async function POST(req: Request) {
       console.error("Error parsing drawnFeature:", error);
     }
   }
-
+  const model = google('gemini-2.0-flash');
   const result = await streamText({
-    model: openai("gpt-4.1"),
+    model,
     system: SYSTEM_MESSAGE,
     maxSteps: 10,
     onError: (error) => {
