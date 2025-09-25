@@ -12,7 +12,7 @@ git clone https://github.com/fabriviccini/GeoLLM.git
 
 cd geoLLM
 
-3. Instalar dependencias:
+2. Instalar dependencias:
 
 npm install
 
