@@ -8,9 +8,9 @@ una vez que este instalado usando el terminal de VScode siguen estos pasos:
 
 1. Clonar el repositorio:
    
-git clone https://github.com/fabriviccini/GeoLLM.git
+   git clone https://github.com/fabriviccini/GeoLLM.git
 
-cd geoLLM
+   cd geoLLM
 
 2. Instalar dependencias:
 
