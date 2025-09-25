@@ -7,12 +7,12 @@ para poder correr el programa tienen que tener instalado:
 una vez que este instalado usando el terminal de VScode siguen estos pasos:
 
 1. Clonar el repositorio:
-   
-   git clone https://github.com/fabriviccini/GeoLLM.git
 
-   cd geoLLM
+git clone https://github.com/fabriviccini/GeoLLM.git
 
-2. Instalar dependencias:
+cd geoLLM
+
+3. Instalar dependencias:
 
 npm install
 
