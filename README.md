@@ -1,4 +1,4 @@
-para poder correr el programa tienen que tener instalado:
+Para poder correr el programa tienen que tener instalado:
 
 -Node.js 18.x  (https://nodejs.org/es/download)
 
