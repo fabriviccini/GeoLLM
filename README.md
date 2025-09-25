@@ -4,7 +4,7 @@ Para poder correr el programa tienen que tener instalado:
 
 -npm 
 
-una vez que este instalado usando el terminal de VScode siguen estos pasos:
+Una vez que este instalado usando el terminal de VScode siguen estos pasos:
 
 1. Clonar el repositorio:
 
